@@ -1,5 +1,5 @@
 {
-  "name": "empty-project-template",
+  "name": "auth-screens",
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
   "scripts": {
@@ -11,6 +11,9 @@
   "dependencies": {
     "expo": "^30.0.1",
     "react": "16.3.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz"
+    "react-native": "~0.55.2",
+    "react-native-gradient-buttons": "1.2.3",
+    "react-native-ui-kitten": "^3.0.1",
+    "react-navigation": "^2.0.4"
   }
 }

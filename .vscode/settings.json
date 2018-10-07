@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "prettier.eslintIntegration": true,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+}
