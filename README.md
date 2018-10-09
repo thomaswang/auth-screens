@@ -1,4 +1,4 @@
-# React Native Auth Screens
+# React Native Auth Screens [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20these%20sweet%20auth-screens%20by%20@thomaswangio%20for%20@reactnative%20&url=https://github.com/thomaswangio/auth-screens)
 
 An example authentication screen project for React Native showcasing [React Native Gradient Buttons](https://github.com/thomaswangio/react-native-gradient-buttons).
 
