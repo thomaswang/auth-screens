@@ -87,21 +87,27 @@ class SignUp extends React.PureComponent {
         <View style={styles.all}>
           <RkCard rkType="heroImage shadowed" style={styles.content}>
             <TextInput
+              textContentType="name"
               placeholder="NAME"
               placeholderTextColor="#707070"
               style={styles.input}
             />
             <TextInput
+              textContentType="emailAddress"
               placeholder="EMAIL"
               placeholderTextColor="#707070"
               style={styles.input}
             />
             <TextInput
+              textContentType="password"
+              secureTextEntry={true}
               placeholder="PASSWORD"
               placeholderTextColor="#707070"
               style={styles.input}
             />
             <TextInput
+              textContentType="password"
+              secureTextEntry={true}
               placeholder="CONFIRM PASSWORD"
               placeholderTextColor="#707070"
               style={styles.input}
