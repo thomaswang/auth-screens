@@ -93,7 +93,7 @@ class SocialAuth extends React.PureComponent {
             >
               <FontAwesome
                 name="google"
-                style={{ color: "white", fontSize: 16 }}
+                style={{ color: "white", fontSize: 18 }}
               />{" "}
               Sign-In with Google
             </GradientButton>
@@ -107,8 +107,8 @@ class SocialAuth extends React.PureComponent {
               impact
             >
               <FontAwesome
-                name="google"
-                style={{ color: "white", fontSize: 16 }}
+                name="instagram"
+                style={{ color: "white", fontSize: 18 }}
               />{" "}
               Sign-In with Instagram
             </GradientButton>
@@ -122,8 +122,8 @@ class SocialAuth extends React.PureComponent {
               impact
             >
               <FontAwesome
-                name="google"
-                style={{ color: "white", fontSize: 16 }}
+                name="snapchat"
+                style={{ color: "white", fontSize: 18 }}
               />{" "}
               Sign-In with Snapchat
             </GradientButton>
@@ -137,8 +137,8 @@ class SocialAuth extends React.PureComponent {
               impact
             >
               <FontAwesome
-                name="google"
-                style={{ color: "white", fontSize: 16 }}
+                name="facebook"
+                style={{ color: "white", fontSize: 18 }}
               />{" "}
               Sign-In with Facebook
             </GradientButton>
@@ -152,8 +152,8 @@ class SocialAuth extends React.PureComponent {
               impact
             >
               <FontAwesome
-                name="google"
-                style={{ color: "white", fontSize: 16 }}
+                name="twitter"
+                style={{ color: "white", fontSize: 18 }}
               />{" "}
               Sign-In with Twitter
             </GradientButton>
