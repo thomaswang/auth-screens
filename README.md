@@ -18,4 +18,4 @@ $ expo start
 <img src="./example3.png" alt="Example 3" width="250">
 <img src="./example4.png" alt="Example 4" width="250">
 
-*License [MIT](https://github.com/thomaswangio/auth-screens/edit/master/LICENSE.md)*
+Feel Free to use and customize for your apps 😊. *License: [MIT](https://github.com/thomaswangio/auth-screens/edit/master/LICENSE.md)*
