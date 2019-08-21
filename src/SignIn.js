@@ -9,7 +9,7 @@ import {
   TouchableOpacity,
   View
 } from "react-native";
-import { Constants } from "expo";
+import Constants from "expo-constants";
 import { RkAvoidKeyboard, RkCard } from "react-native-ui-kitten";
 import { FontAwesome } from "react-native-vector-icons";
 import { scale, scaleVertical } from "./utilities/scale";
@@ -71,7 +71,7 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     marginTop: scaleVertical(28),
     paddingHorizontal: 8,
-    paddingVertical: scaleVertical()
+    paddingVertical: scaleVertical(12)
   },
   textRow: {
     flexDirection: "row",

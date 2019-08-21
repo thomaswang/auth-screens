@@ -8,7 +8,7 @@ import {
   TouchableOpacity,
   View
 } from "react-native";
-import { Constants } from "expo";
+import Constants from "expo-constants";
 import { RkCard, RkAvoidKeyboard } from "react-native-ui-kitten";
 import { FontAwesome } from "react-native-vector-icons";
 import { scale, scaleVertical } from "./utilities/scale";

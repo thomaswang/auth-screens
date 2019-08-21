@@ -1,4 +1,4 @@
-import { createStackNavigator } from "react-navigation";
+import { createStackNavigator, createAppContainer } from "react-navigation";
 
 import SignIn from "./src/SignIn";
 import SocialAuth from "./src/SocialAuth";
@@ -17,4 +17,6 @@ const AuthStack = createStackNavigator(
   }
 );
 
-export default AuthStack;
+const App = createAppContainer(AuthStack);
+
+export default App;
